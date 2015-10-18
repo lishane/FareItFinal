@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tokenSecret</key>
+	<string>J4peEC8ZbWiD0n-meSMaNKOWBrQ</string>
+	<key>token</key>
+	<string>bCGCzT7eiyuTZQOqgTySkVH5OTqGVJMy</string>
+	<key>consumerSecret</key>
+	<string>wztJGQFW1vEJRcNorqbBseaTVG8</string>
+	<key>consumerKey</key>
+	<string>Al5eoPyUXhWGRyh89Rbepg</string>
+</dict>
+</plist>
